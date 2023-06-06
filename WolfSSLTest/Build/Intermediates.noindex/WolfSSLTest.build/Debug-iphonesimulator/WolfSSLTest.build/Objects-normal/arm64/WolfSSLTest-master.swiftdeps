@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "bc68e82af1dc9b87487d8853ccce3cbc5e6a5a304ac6476a65dd8d858081ec06"
+build_start_time: [1683895579, 593336105]
+build_end_time: [1683895579, 622611045]
+inputs:
+  "/Users/muatazmedini/Work/Projects/WolfSSLTest/WolfSSLTest/AppDelegate.swift": !private [1683895406, 757337570]
+  "/Users/muatazmedini/Work/Projects/WolfSSLTest/WolfSSLTest/SceneDelegate.swift": !private [1683895406, 759336709]
+  "/Users/muatazmedini/Work/Projects/WolfSSLTest/WolfSSLTest/ViewController.swift": !private [1683895406, 760517358]

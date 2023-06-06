@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+wolfssl_ios in wolfssl, no dependencies
+wolfssl_testsuite in wolfssl_testsuite, depends on:
+wolfssl_ios in wolfssl (implicit dependency via file 'libwolfssl_ios.a' in build phase 'Link Binary')

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/wolfcrypt/src/hash.c \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/settings.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/user_settings.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/visibility.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/logging.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/types.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/wc_port.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/memory.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/error-crypt.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/asn.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/wolfmath.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/tfm.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/random.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/sha256.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/dh.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/sha.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/md5.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/asn_public.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/dsa.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/hash.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/sha512.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/wolfssl/wolfcrypt/sha3.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/hmac.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/wolfssl/wolfcrypt/cryptocb.h \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/wolfcrypt/src/misc.c \
+  /Users/muatazmedini/Work/Projects/wolfssl-master/IDE/XCODE/Build/Products/include/wolfssl/wolfcrypt/misc.h
